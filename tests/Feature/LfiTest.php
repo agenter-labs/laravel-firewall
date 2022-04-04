@@ -1,9 +1,9 @@
 <?php
 
-namespace Akaunting\Firewall\Tests\Feature;
+namespace AgenterLab\Firewall\Tests\Feature;
 
-use Akaunting\Firewall\Middleware\Lfi;
-use Akaunting\Firewall\Tests\TestCase;
+use AgenterLab\Firewall\Middleware\Lfi;
+use AgenterLab\Firewall\Tests\TestCase;
 
 class LfiTest extends TestCase
 {

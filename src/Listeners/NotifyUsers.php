@@ -1,10 +1,10 @@
 <?php
 
-namespace Akaunting\Firewall\Listeners;
+namespace AgenterLab\Firewall\Listeners;
 
-use Akaunting\Firewall\Events\AttackDetected as Event;
-use Akaunting\Firewall\Notifications\AttackDetected;
-use Akaunting\Firewall\Notifications\Notifiable;
+use AgenterLab\Firewall\Events\AttackDetected as Event;
+use AgenterLab\Firewall\Notifications\AttackDetected;
+use AgenterLab\Firewall\Notifications\Notifiable;
 use Throwable;
 
 class NotifyUsers

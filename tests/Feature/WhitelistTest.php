@@ -1,10 +1,10 @@
 <?php
 
-namespace Akaunting\Firewall\Tests\Feature;
+namespace AgenterLab\Firewall\Tests\Feature;
 
-use Akaunting\Firewall\Middleware\Whitelist;
-use Akaunting\Firewall\Models\Ip as Model;
-use Akaunting\Firewall\Tests\TestCase;
+use AgenterLab\Firewall\Middleware\Whitelist;
+use AgenterLab\Firewall\Models\Ip as Model;
+use AgenterLab\Firewall\Tests\TestCase;
 
 class WhitelistTest extends TestCase
 {

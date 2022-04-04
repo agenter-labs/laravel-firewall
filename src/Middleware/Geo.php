@@ -1,8 +1,8 @@
 <?php
 
-namespace Akaunting\Firewall\Middleware;
+namespace AgenterLab\Firewall\Middleware;
 
-use Akaunting\Firewall\Abstracts\Middleware;
+use AgenterLab\Firewall\Abstracts\Middleware;
 use Illuminate\Support\Str;
 
 class Geo extends Middleware

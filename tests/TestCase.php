@@ -1,8 +1,8 @@
 <?php
 
-namespace Akaunting\Firewall\Tests;
+namespace AgenterLab\Firewall\Tests;
 
-use Akaunting\Firewall\Provider;
+use AgenterLab\Firewall\Provider;
 use Orchestra\Testbench\TestCase as BaseTestCase;
 
 abstract class TestCase extends BaseTestCase

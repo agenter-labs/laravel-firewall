@@ -1,8 +1,8 @@
 <?php
 
-namespace Akaunting\Firewall\Traits;
+namespace AgenterLab\Firewall\Traits;
 
-use Akaunting\Firewall\Models\Log;
+use AgenterLab\Firewall\Models\Log;
 use Symfony\Component\HttpFoundation\IpUtils;
 
 trait Helper

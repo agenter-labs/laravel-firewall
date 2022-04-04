@@ -1,6 +1,6 @@
 <?php
 
-namespace Akaunting\Firewall\Notifications;
+namespace AgenterLab\Firewall\Notifications;
 
 use Illuminate\Notifications\Notifiable as NotifiableTrait;
 

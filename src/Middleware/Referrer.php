@@ -1,9 +1,9 @@
 <?php
 
-namespace Akaunting\Firewall\Middleware;
+namespace AgenterLab\Firewall\Middleware;
 
-use Akaunting\Firewall\Abstracts\Middleware;
-use Akaunting\Firewall\Events\AttackDetected;
+use AgenterLab\Firewall\Abstracts\Middleware;
+use AgenterLab\Firewall\Events\AttackDetected;
 
 class Referrer extends Middleware
 {

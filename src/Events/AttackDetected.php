@@ -1,6 +1,6 @@
 <?php
 
-namespace Akaunting\Firewall\Events;
+namespace AgenterLab\Firewall\Events;
 
 class AttackDetected
 {
